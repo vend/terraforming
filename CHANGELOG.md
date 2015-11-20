@@ -1,3 +1,7 @@
+# Vend Fork
+
+- Use default name for EC2 resources instead of "name" tag
+
 # [v0.4.0](https://github.com/dtan4/terraforming/releases/tag/v0.4.0) (2015-10-06)
 
 ## New feature

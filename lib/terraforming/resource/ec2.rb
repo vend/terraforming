@@ -102,7 +102,7 @@ module Terraforming
       end
 
       def module_name_of(instance)
-        normalize_module_name(name_from_tag(instance, instance.instance_id))
+        normalize_module_name(instance.instance_id)
       end
 
       def root_block_device?(block_device_mapping, instance)
